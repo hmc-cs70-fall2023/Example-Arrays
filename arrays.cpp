@@ -35,11 +35,11 @@ int main() {
     int numbers[ARRAY_SIZE];
     int y = 54;
 
-    for (size_t i = 0; i <= ARRAY_SIZE; ++i) {
+    for (size_t i = 0; i < ARRAY_SIZE; ++i) {
         numbers[i] = int(i) + 100;
     }
 
-    for (size_t j = 0; j <= ARRAY_SIZE; ++j) {
+    for (size_t j = 0; j < ARRAY_SIZE; ++j) {
         std::cout << "Element at index " << j << " : "
                   << numbers[j] << std::endl;
     }
