@@ -11,6 +11,8 @@ As a reminder, you can build and run the code by running:
 
 ## Extra Bonus Fun for Lab
 
+_**Note:** Only do this after you've done everything described in `arrays.cpp`._
+
 Try running the code on a different processor architecture. Docker can simulate this, but you'll need to use a terminal rather than VS Code.
 
 Open a Mac Terminal, and then run:
