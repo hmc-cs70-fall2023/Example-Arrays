@@ -1,6 +1,6 @@
 # CS 70 Array Example
 
-Load the code into Visual Studio, look at the comments and follow the instructions.
+Load the code into Visual Studio, look at the comments and follow the instructions. (Be sure to click “Reopen in Container” when it comes up so that it uses the CS 70 docker image.)
 
 As a reminder, you can build and run the code by running:
 
